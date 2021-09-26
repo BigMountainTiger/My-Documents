@@ -1,0 +1,6 @@
+#!/bin/bash
+
+git reset --soft HEAD~
+git add-commit -m "Updated the documents"
+git push -f
+
